@@ -28,3 +28,6 @@ The system provides detailed reports to assist Admins, Sales Agents, and Village
 Reports include EMI dues, collection summaries, pending payments, and agent performance, ensuring data-driven decision-making.
 Conclusion:
 BVMCO serves as a digital backbone for microfinance-based product sales, ensuring transparency, efficient collections, and better financial management. By bridging the gap between customers and sales teams, it simplifies order processing, EMI tracking, and payment collections while empowering field agents with essential data and insights.
+
+
+extract file and folder form both two zip file in to a Single project folder, and import database
